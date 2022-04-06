@@ -8,3 +8,6 @@ Players will be able to play by joining a server and selecting a team - they wil
 
 Game is in "Work in Progress" state - here are some screenshots:
 
+![SCREENSHOT 1](https://i.imgur.com/eQlNFet.jpeg "SC1")
+![SCREENSHOT 2](https://i.imgur.com/QsHkBHi.jpeg "SC1")
+![SCREENSHOT 3](https://i.imgur.com/VKMHHVr.jpeg "SC1")
